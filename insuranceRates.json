@@ -30,5 +30,6 @@
     {"categoryId": "c28", "insuranceRate": 5},
     {"categoryId": "c29", "insuranceRate": 8},
     {"categoryId": "c30", "insuranceRate": 20}
-  ]
+  ],
+  "commissionRate":10
 }
